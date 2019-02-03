@@ -185,8 +185,8 @@ that soon.</td>
 
 <hr>
 <h4>Disclaimer</h4>
-This is a beta service. This service is <em>explicitely</em> not
-supported by SIDN, but by SIDN Labs. Its setup can change at any
+This is a beta service. This service is <em>explicitly</em> not
+supported by SIDN, but is instead supported by SIDN Labs. Its setup can change at any
 moment, without any warning, so it is not advisable to depend on this
 service for any other (automated) service or system.
 If there are any problems with the software or service, please
